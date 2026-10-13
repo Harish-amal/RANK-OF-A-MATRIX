@@ -11,10 +11,15 @@ To write a python program to find the rank of a matrix
 ### Step 4: 
 ## Program:
 import os
+
 os.environ["OPENBLAS_NUM_THREADS"]="1"
+
 import numpy
+
 a=numpy.array([[1,2,3],[3,6,9]])
+
 b=numpy.linalg.matrix_rank(a)
+
 print(b)
 ## Output:
 ## Result:
