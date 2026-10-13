@@ -26,6 +26,8 @@ b=numpy.linalg.matrix_rank(a)
 
 print(b)
 ## Output:
+<img width="882" height="842" alt="image" src="https://github.com/user-attachments/assets/8d3c69bb-cfb1-492e-863d-1374d3b2c3e2" />
+
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
